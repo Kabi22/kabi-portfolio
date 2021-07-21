@@ -36,10 +36,9 @@
               Software Engineer Intern
           </v-card-text>
           <v-card-text class="mt-n4 font-weight-regular">
-              My first real internship! I helped the Guided Packing team cut down on manual data requests by building a data analytics dashboard. 
-              This dashboard helped the team be more proactive in their support decisions, saving both them and the customers valuable time. I learned a lot technology wise, 
-              (ASP.NET, Vue.js, Vuetify, SQL Server, Dapper ORM) but also so much more when it came to working in a team enviroment. This experience only made me more excited
-              to grow as a developer. 
+             My first real internship! I helped the Guided Packing team cut down on manual data requests by building a data analytics dashboard. 
+              This dashboard helped the team be more proactive in their support decisions, saving both them and the customers valuable time. I learned a lot technology-wise, 
+              (ASP.NET, Vue.js, Vuetify, SQL Server, Dapper ORM) but also so much more when it came to working in a team environment. This experience only made me more excited to grow as a developer. 
           </v-card-text>
           
         </v-card>
@@ -64,10 +63,10 @@
               Front End Developer
           </v-card-text>
           <v-card-text class="mt-n4 font-weight-regular">
-              James Street is an organization focused on raising awareness for children/people on the autism spectrum. When it came to redesigning their website
-              I had a lot of time to think about the best way to represnt their brand. They wanted something local, vibrant, and indiciative of autism awarness.
+             James Street is an organization focused on raising awareness for children/people on the autism spectrum. When it came to redesigning their website
+              I had a lot of time to think about the best way to represent their brand. They wanted something local, vibrant, and indicative of autism awareness.
               I chose to go with Google's Material Design language, incorporating colors that represented autism and also used local images to bring it all together. 
-              This experience was more than just building a website, I learned how much it meant to contribute to something meanignful. 
+              This experience was more than just building a website, I learned how much it meant to contribute to something meaningful. 
           </v-card-text>
           
         </v-card>
@@ -92,8 +91,8 @@
               Student
           </v-card-text>
           <v-card-text class="mt-n4 font-weight-regular">
-              Before I started college, I had the privelege to participate in Google's Computer Science Summer Institute. This program is an 8 week, intensive and collaborative software and career development program led by
-Google Engineers for high-achieving diverse talent based on academic success and career ambition. It was remote, but still had a great time. 
+              Before I started college, I had the privilege to participate in Google's Computer Science Summer Institute. This program is an 8 week, intensive and collaborative software and career development program led by
+Google Engineers for high-achieving diverse talent based on academic success and career ambition. It was remote but still had a great time. 
           </v-card-text>
           
         </v-card>
@@ -143,10 +142,9 @@ Google Engineers for high-achieving diverse talent based on academic success and
               Computational Biology Researcher 
           </v-card-text>
           <v-card-text class="mt-n4 font-weight-regular">
-              I developed an Electrocardiogram device that could classify a patient's heartbeat arrythmia in realtime! I learned Python data manipulation 
-              and machine learning libraries such as pandas and numpy. I worked with my team who guided me along the way. As a junior in highschool, given
-              any amount of real responsibility seemed daunting. I learned how applicable my research was which was a great sight to see. I also won an award
+             I developed an Electrocardiogram device that could classify a patient's heartbeat arrhythmia in real-time! I learned Python data manipulation and machine learning libraries such as pandas and NumPy. I worked with my team who guided me along the way. As a junior in high school, given any amount of real responsibility seemed daunting. I learned how applicable my research was which was a great sight to see. I also won an award
               for the best CompBio project! 
+
           </v-card-text>
           
         </v-card>
@@ -171,7 +169,7 @@ Google Engineers for high-achieving diverse talent based on academic success and
               Student
           </v-card-text>
           <v-card-text class="mt-n4 font-weight-regular">
-              Learned about computer science in 9th grade. Ran Varsity Track & Field and Cross Country.   
+             I learned about computer science in 9th grade. Also, ran Varsity Track & Field and Cross Country. 
           </v-card-text>
           
         </v-card>
