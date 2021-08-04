@@ -1,24 +1,11 @@
 # clientapp
 
-## Project setup
-```
-npm install
-```
+## Project Updating
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+git branch
+git branch -D gh-pages
+git commit -m "changes"
+git push -u origin master
+npm run deploy
 ```
-
-### Compiles and minifies for production
-```
-npm run build a
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
